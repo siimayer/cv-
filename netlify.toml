@@ -1,0 +1,5 @@
+netlify.toml
+[[redicts]]
+from="/*"
+to="/indexhtml"
+status=200
